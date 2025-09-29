@@ -5,7 +5,7 @@ This repo tracks my day-wise learning with notes and solutions.
  
 ## 📅 Progress Overview
 
-| Day | Topic                     | Problems Solved | Status |
+| Day | Topic                     | Problems Solved | Status | 
 |-----|---------------------------|------------------|--------|
 | 1   | Arrays                    | ✅ ✅ ✅         | ✅      |
 | 2   | Sorting & Searching       | ✅ ✅             | ✅      |
