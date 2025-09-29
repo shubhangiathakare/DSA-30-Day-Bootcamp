@@ -3,7 +3,7 @@
 Welcome to my 30-day Data Structures & Algorithms Bootcamp!  
 This repo tracks my day-wise learning with notes and solutions.
  
-## 📅 Progress Overview
+## 📅 Progress Overview 
  
 | Day | Topic                     | Problems Solved | Status | 
 |-----|---------------------------|------------------|--------|
